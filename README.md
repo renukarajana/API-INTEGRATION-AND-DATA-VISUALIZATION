@@ -52,3 +52,7 @@ For example, fetching weather data:
 
 3) Matplotlib/Seaborn plots a bar chart of today's temperature or a line chart of daily 
    temperatures over a week.
+
+*OUTPUT
+
+![Image](https://github.com/user-attachments/assets/78d45183-207f-4586-8434-edfe4dd7c43f)
