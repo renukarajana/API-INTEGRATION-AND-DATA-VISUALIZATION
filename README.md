@@ -56,3 +56,5 @@ For example, fetching weather data:
 *OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/78d45183-207f-4586-8434-edfe4dd7c43f)
+
+![Image](https://github.com/user-attachments/assets/46708a0b-621a-4797-b7a7-54de52f9fc90)
